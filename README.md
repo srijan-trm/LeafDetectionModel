@@ -43,7 +43,7 @@ A simple AI-powered web app that detects plant leaf diseases from images using d
 ## ⚙️ Installation
 
 ```bash
-git clone [https://github.com/your-username/plant-disease-detector.git](https://github.com/srijan-trm/LeafDetectionModel)
+git clone https://github.com/srijan-trm/LeafDetectionModel
 cd LeafDetectionModel
 
 pip install -r requirements.txt
